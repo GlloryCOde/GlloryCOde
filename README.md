@@ -1,1 +1,1 @@
-<h1 align= "center"> 👋 Hi, I’m GlloryCOde</h1>
+<h1 align= "center"> 👋 Hi, I’m GLLORRY</h1>
